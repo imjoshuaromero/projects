@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/bakaj/projects/helloworld",
-      "program": "c:/Users/bakaj/projects/helloworld/build/Debug/outDebug",
+      "cwd": "c:/Users/bakaj/projects",
+      "program": "c:/Users/bakaj/projects/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
